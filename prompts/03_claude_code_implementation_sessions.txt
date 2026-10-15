@@ -1,0 +1,43 @@
+Claude Code (GLM-5.3): available implementation request and action summary
+============================================================================
+Session date: 2026-10-15
+Tool: Claude Code (CLI agent) with z-ai/glm-5.3, running in c:\Project\sn-scrapping
+
+This is not the complete Claude Code conversation. The user confirmed on
+2026-10-15 that the one user prompt below is every prompt they sent to Claude
+Code for this implementation. Agent actions are summarized from project
+records; they are not verbatim AI responses.
+
+--- Turn 1 (user) ---
+@documents/Web_Scraping_and_Data_Extraction_Assignment_EN.md please follow strictly to
+implement code
+
+--- Agent actions ---
+1. Read AGENTS.md, ACCEPTANCE_CRITERIA.md, IMPLEMENTATION_PLAN.md, CURRENT_STATUS.md,
+   documents/setup.md per the working mode in CLAUDE.md.
+2. Invoked /ponytail lite (anti-overengineering guard, lite level only).
+3. Milestone 1 (3-site spike):
+   - Wrote src/companies.py (10 company list from the assignment),
+     src/urls.py (URL normalization, dedup keys, JP registrable-domain policy),
+     src/ranking.py (keyword scoring with penalties),
+     src/crawler.py (BFS same-site crawler with retries/timeouts/failure logging),
+     src/spike.py (spike CLI).
+   - TDD tests: tests/test_urls.py, tests/test_ranking.py, tests/test_crawler.py.
+   - Debugged live-network blockers (see CURRENT_STATUS.md Milestone 1).
+4. Milestone 2: post-redirect dedup fix; 10-company crawl-test PASS with evidence.
+5. Milestone 3-4: LLM structured extraction (src/extract.py, src/schema.py,
+   src/cleaner.py, src/pipeline.py), validation rules (no month inference from year,
+   verbatim evidence check with Unicode-space normalization, source_url-must-be-fetched),
+   full 10-company run.
+
+The milestone instructions in CLAUDE.md were project context, not separate
+user messages to Claude Code.
+
+The assignment requires prompts *and responses*, or a shareable conversation
+link. The Claude response history or link is not available in this repository,
+so this part of the history requirement remains incomplete. CURRENT_STATUS.md
+records engineering evidence but cannot replace missing AI responses.
+
+Next: 05_extraction_system_prompt.txt is the runtime prompt used by the
+implementation; 06_gemini_integration_and_execution.txt records the later
+Gemini run. See 00_README.txt for the complete map.

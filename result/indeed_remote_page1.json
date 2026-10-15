@@ -1,0 +1,233 @@
+{
+  "task": "B",
+  "observed_on": "2026-10-15",
+  "retrieval_method": "Isolated JavaScript-enabled browser after direct HTTP requests returned Cloudflare 403 challenge pages",
+  "source_url": "https://vn.indeed.com/jobs?q=remote",
+  "rendered_url": "https://vn.indeed.com/jobs?q=remote&vjk=58bcb6e093bc61b9",
+  "page_title": "3,000+ Remote Jobs, Employment October 15, 2026| Indeed",
+  "displayed_result_count_label": "3,000+",
+  "visible_job_cards": 15,
+  "scope": "All 15 job cards visible on the first results page, plus the visible detail panel for the first selected job. This is not a complete export of all search results.",
+  "captcha_shown": false,
+  "jobs": [
+    {
+      "id": "58bcb6e093bc61b9",
+      "title_displayed": "NHÂN VIÊN CHĂM SÓC KHÁCH HÀNG REMOTE NHÀ",
+      "employer_location_displayed": "Truyền Thông Và Giải Trí CM Việt Nam",
+      "salary_displayed": "15,000,000 VNĐ - 20,000,000 VNĐ a year",
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Hỗ trợ khách hàng trong quá trình trải nghiệm sản phẩm game trò chơi, phản hồi ý kiến và giải quyết khiếu nại cho khách hàng.",
+        "PHẢN HỒI Ý KIẾN CỦA KHÁCH HÀNG."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "899e9319ccde54a0",
+      "title_displayed": "Remote Vietnamese - English Language Specialist",
+      "employer_location_displayed": "AssistRing Remote",
+      "salary_displayed": "From 22,000,000 VNĐ a month",
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "AssistRing is seeking analytical, detail-oriented native Vietnamese speakers with strong English proficiency to evaluate and train generative AI models."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "48f446ef4974066a",
+      "title_displayed": "Vietnamese Language Specialist - Freelance AI Trainer Project",
+      "employer_location_displayed": "Meridial Remote",
+      "salary_displayed": null,
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Large‑scale language models are evolving from clever chatbots into powerful engines of linguistic discovery.",
+        "On a typical day, you will converse with the model…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "d7cf39ed0ec90fa1",
+      "title_displayed": "CỘNG TÁC VIÊN TELESALES (REMOTE - CA ĐÊM)",
+      "employer_location_displayed": "VietGlobal Care Group Việt Nam",
+      "salary_displayed": null,
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Thực hiện cuộc gọi tư vấn các sản phẩm/dịch vụ cho cộng đồng người Việt đang sinh sống tại Mỹ.",
+        "Giải đáp thắc mắc và thuyết phục khách hàng sử dụng dịch vụ."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "5335873f0cf8f943",
+      "title_displayed": "Customer Service Executive - 24/7 Rotational Shift (WFH) - Immediate Hiring",
+      "employer_location_displayed": "ATAIN SENA Remote",
+      "salary_displayed": "8,000,000 VNĐ - 12,000,000 VNĐ a month",
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "Vượt qua mong đợi của khách hàng về dịch vụ khách hàng và thông tin chính xác.",
+        "Làm việc theo nhóm để đạt được các yếu tố KPI và SLA yêu cầu."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "0834dcd178c48dd2",
+      "title_displayed": "Vietnamese Voice Actor - Freelance AI Trainer Project",
+      "employer_location_displayed": "Meridial Remote",
+      "salary_displayed": null,
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Large-scale language models and speech technologies are evolving rapidly, moving beyond simple interactions into expressive, human-like communication."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "4793c0408106a3e3",
+      "title_displayed": "CLIENT ACCOUNTS COORDINATOR",
+      "employer_location_displayed": "WEST LAW GROUP PROFESSIONAL CORPORATION Việt Nam",
+      "salary_displayed": "12,000,000 VNĐ - 16,000,000 VNĐ a month",
+      "badges_displayed": [],
+      "snippet_lines": [
+        "This is a  REMOTE  position.",
+        "Excellent command of the English language (written and spoken).",
+        "Business hours are 9.00am to 5.00pm PST (with one hour break for…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "df218a22bf3f76cd",
+      "title_displayed": "Ecommerce Customer Service Executive (Remote)",
+      "employer_location_displayed": "Exclusivia Remote",
+      "salary_displayed": "15,000,000 VNĐ - 28,000,000 VNĐ a month",
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "Stable, full-time  remote  position.",
+        "We are looking for an experienced online customer service professional to assist customers before and after their purchases."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "8d2a6c3548654660",
+      "title_displayed": "Nhân Viên Đăng Tin (Remote",
+      "title_note": "The title appeared truncated in the visible card text.",
+      "employer_location_displayed": "2407 HUB Co.Ltd Thành phố Hồ Chí Minh",
+      "salary_displayed": null,
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Tròn House tiên phong đi đầu trong việc triển khai mô hình sản xuất hình ảnh và video (đặc biệt trong lĩnh vực Thương Mại Điện Tử), chuyên môn hoá ứng dụng công…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "1288c8e0b71af2a4",
+      "title_displayed": "Ecommerce Customer Support & Procurement Executive (Remote)",
+      "employer_location_displayed": "Exclusivia Remote",
+      "salary_displayed": "15,000,000 VNĐ - 25,000,000 VNĐ a month",
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "Stable, full-time  remote  position.",
+        "This is more than a basic customer-service role.",
+        "You will gain hands-on experience across e-commerce operations, procurement…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "sj_6c21abebc0df0784",
+      "title_displayed": "Data Operations Specialist (Remote Independent Contractor)",
+      "employer_location_displayed": "Veeva Systems Remote",
+      "salary_displayed": null,
+      "badges_displayed": ["Easily apply", "Often replies in 1 day"],
+      "snippet_lines": [
+        "Remote Freedom: Fully  remote  independent contractor setup.",
+        "Fees: Paid in USD (Hourly/Project-based contractor rates) - $2.5 - $4 USD/hour depending on…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "sj_39274770644cf030",
+      "title_displayed": "Remote Hotel Receptionist",
+      "employer_location_displayed": "Cogent Business Solutions, Inc. Remote",
+      "salary_displayed": "Up to 7,000,000 VNĐ a month",
+      "badges_displayed": ["Easily apply", "Urgently hiring"],
+      "snippet_lines": [
+        "As a  remote  position, the candidate must also be comfortable using online reservation systems, customer service tools, and other digital platforms to support…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "d1f7c4905a8a7ac8",
+      "title_displayed": "Remote Personal and Operations Assistant",
+      "employer_location_displayed": "Total Wellness Initiative Singapore Remote",
+      "salary_displayed": "10,140,750 VNĐ - 13,140,750 VNĐ a month",
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "Prepare a monthly financial summary and support the main annual financial reporting cycle.",
+        "Keep records accurate, organised, and ready for review."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "7d225c480bdc2347",
+      "title_displayed": "Nhân Viên Chăm Sóc Khách Hàng Driver Chat - Shopee Food - Xét WFH",
+      "employer_location_displayed": "Công Ty TNHH Việt Mỹ SSU Thành phố Hồ Chí Minh",
+      "salary_displayed": "9,000,000 VNĐ a month",
+      "badges_displayed": [],
+      "snippet_lines": [
+        "Xem xét cho nhân viên WFH sau 2 tháng thử việc dựa trên kết quả review KPI và quá trình làm việc (không cam kết chắc chắn 100% được WFH)."
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    },
+    {
+      "id": "e02124f1020dfdf8",
+      "title_displayed": "Freelance Translator - Vietnamese",
+      "employer_location_displayed": "Avantpage, Inc. Việt Nam",
+      "salary_displayed": null,
+      "badges_displayed": ["Easily apply"],
+      "snippet_lines": [
+        "Flexible  remote  work with a supportive team.",
+        "AvantPage is looking for talented linguists to support an upcoming project involving member communications for a…"
+      ],
+      "source_url": "https://vn.indeed.com/jobs?q=remote"
+    }
+  ],
+  "selected_job_detail": {
+    "job_id": "58bcb6e093bc61b9",
+    "source_url": "https://vn.indeed.com/jobs?q=remote&vjk=58bcb6e093bc61b9",
+    "salary_displayed_in_card_and_details": "15,000,000 VNĐ - 20,000,000 VNĐ a year",
+    "description_and_metadata_lines": [
+      "CHI TIẾT CÔNG VIỆC:",
+      "Hỗ trợ khách hàng trong quá trình trải nghiệm sản phẩm game trò chơi, phản hồi ý kiến và giải quyết khiếu nại cho khách hàng.",
+      "NHIỆM VỤ CHÍNH:",
+      "PHẢN HỒI Ý KIẾN CỦA KHÁCH HÀNG.",
+      "HỖ TRỢ KHÁCH HÀNG TRONG QUÁ TRÌNH TRẢI NGHIỆM SẢN PHẨM GAME TRÒ CHƠI.",
+      "GIẢI QUYẾT KHIẾU NẠI CHO KHÁCH HÀNG.",
+      "KIỂM TRA VÀ PHỐI HỢP VỚI BỘ PHẬN.",
+      "CHĂM SÓC KHÁCH HÀNG.",
+      "YÊU CẦU:",
+      "NAM NỮ TUỔI TỪ 18-32",
+      "KỸ NĂNG ĐÁNH MÁY TÍNH TỐT TRÊN 55 TỪ.",
+      "GIAO TIẾP TỐT, THÁI ĐỘ LỄ PHÉP.",
+      "XỬ LÝ TÌNH HUỐNG TỐT.",
+      "CÓ THỂ LÀM THEO TIME QUI ĐỊNH CÔNG TY.",
+      "NGÀY LÀM 10H. XOAY CA.",
+      "CHẤP NHẬN LÀM LỄ TẾT.",
+      "QUYỀN LỢI ĐƯỢC HƯỞNG:",
+      "LƯƠNG CỨNG TỪ 15.000.000",
+      "CHÍNH THỨC CÓ THÊM HIỆU SUẤT.",
+      "PHỤ CẤP CHUYÊN CẦN 500K.",
+      "LÀM ONLINE TẠI NHÀ.",
+      "Địa điểm làm việc:",
+      "Lương:  15000K - 20000K VND một tháng",
+      "Loại hình công việc:  Thỏa thuận thời gian",
+      "Yêu cầu:",
+      "Quyền lợi:  Làm việc tại nhà, Thưởng Chuyên Cần, Thưởng Tháng 13, Đào Tạo Miễn Phí",
+      "Hạn nộp:  2026-11-04",
+      "Kinh nghiệm:  Không yêu cầu kinh nghiệm làm việc",
+      "Bằng cấp:  Trung học",
+      "Lĩnh vực:  Bán hàng, Kinh Doanh -Marketing,Sales/ Bán hàng,Tư vấn - CSKH - Nhân Viên Chăm Sóc Khách Hàng, Nhân Viên Dịch Vụ, Dịch Vụ Khách Hàng, Hỗ Trợ Khách Hàng, Việc làm tại nhà",
+      "Kỹ năng:  Chủ Động, Kỹ Năng Giao Tiếp, Tư Vấn Khách Hàng, Ứng Xử, Xử Lý Tình Huống",
+      "Số lượng cần tuyển: 15",
+      "Giới tính: Không yêu cầu"
+    ],
+    "salary_period_conflict": "The result card/details block says a year, while the full description says a month. Both observed strings are retained."
+  }
+}

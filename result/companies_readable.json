@@ -1,0 +1,348 @@
+[
+  {
+    "company_name": "Nissui",
+    "website": "https://www.nissui.co.jp/",
+    "head_offices": [
+      "東京都港区西新橋1-3-1 西新橋スクエア"
+    ],
+    "representatives": [
+      "田中輝"
+    ],
+    "capital": "30,685百万円",
+    "established": "1943年3月31日",
+    "sources": {
+      "profile": "https://www.nissui.co.jp/corporate/index.html",
+      "established": "https://www.nissui.co.jp/ir/ir_qa/index.html"
+    },
+    "field_sources": {
+      "head_offices": "https://www.nissui.co.jp/corporate/index.html",
+      "representatives": "https://www.nissui.co.jp/corporate/index.html",
+      "capital": "https://www.nissui.co.jp/corporate/index.html",
+      "established": "https://www.nissui.co.jp/ir/ir_qa/index.html"
+    },
+    "evidence": {
+      "head_offices": "本社所在地\n東京都港区西新橋1-3-1 西新橋スクエア",
+      "representatives": "代表者\n代表取締役 社長執行役員 田中輝",
+      "capital": "資本金\n30,685百万円",
+      "established": "会社設立は、1943年3月31日です。"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Umios",
+    "website": "https://www.umios.com/",
+    "head_offices": [
+      "〒108-8620　東京都港区高輪二丁目21番2号 THE LINKPILLAR 1 SOUTH"
+    ],
+    "representatives": [
+      "安田　大助"
+    ],
+    "capital": "200億円",
+    "established": "1943年3月31日",
+    "sources": {
+      "profile": [
+        "https://www.umios.com/jp/corporate/outline/data/",
+        "https://www.umios.com/jp/corporate/outline/"
+      ],
+      "established": "https://www.umios.com/jp/corporate/outline/data/"
+    },
+    "field_sources": {
+      "head_offices": "https://www.umios.com/jp/corporate/outline/data/",
+      "representatives": "https://www.umios.com/jp/corporate/outline/",
+      "capital": "https://www.umios.com/jp/corporate/outline/data/",
+      "established": "https://www.umios.com/jp/corporate/outline/data/"
+    },
+    "evidence": {
+      "head_offices": "所在地\n〒108-8620　東京都港区高輪二丁目21番2号 THE LINKPILLAR 1 SOUTH",
+      "representatives": "代表取締役社長\n安田　大助",
+      "capital": "資本金\n200億円",
+      "established": "設立年月日\n1943年3月31日"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Yukiguni Factory",
+    "website": "https://www.yukiguni-factory.co.jp/",
+    "head_offices": [
+      "新潟本社\n〒949-6695 新潟県南魚沼市余川89番地 TEL：025-778-0111（代表）",
+      "東京本社\n〒104-0031 東京都中央区京橋2丁目8番8号 新京橋ビル4階 TEL：03-4363-2483"
+    ],
+    "representatives": [
+      "湯澤 尚史"
+    ],
+    "capital": "100百万円",
+    "established": "1983年7月",
+    "sources": {
+      "profile": "https://www.yukiguni-factory.co.jp/company/gaiyo",
+      "established": "https://www.yukiguni-factory.co.jp/company/gaiyo"
+    },
+    "field_sources": {
+      "head_offices": "https://www.yukiguni-factory.co.jp/company/gaiyo",
+      "representatives": "https://www.yukiguni-factory.co.jp/company/gaiyo",
+      "capital": "https://www.yukiguni-factory.co.jp/company/gaiyo",
+      "established": "https://www.yukiguni-factory.co.jp/company/gaiyo"
+    },
+    "evidence": {
+      "head_offices": "本社所在地\n新潟本社\n〒949-6695 新潟県南魚沼市余川89番地 TEL：025-778-0111（代表）\n東京本社\n〒104-0031 東京都中央区京橋2丁目8番8号 新京橋ビル4階 TEL：03-4363-2483",
+      "representatives": "代表取締役社長　湯澤 尚史",
+      "capital": "資本金\n100百万円",
+      "established": "設立年月\n1983年7月"
+    },
+    "statuses": {
+      "head_offices": "MULTIPLE_CANDIDATES",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Sakata Seed",
+    "website": "https://www.sakataseed.co.jp/",
+    "head_offices": [
+      "〒224-0041 神奈川県横浜市都筑区仲町台二丁目7番1号"
+    ],
+    "representatives": [
+      "代表取締役会長　坂田　宏",
+      "代表取締役社長　加々美　勉"
+    ],
+    "capital": "135億円",
+    "established": "1942年12月",
+    "sources": {
+      "profile": "https://corporate.sakataseed.co.jp/company/profile.html",
+      "established": "https://corporate.sakataseed.co.jp/company/profile.html"
+    },
+    "field_sources": {
+      "head_offices": "https://corporate.sakataseed.co.jp/company/profile.html",
+      "representatives": "https://corporate.sakataseed.co.jp/company/profile.html",
+      "capital": "https://corporate.sakataseed.co.jp/company/profile.html",
+      "established": "https://corporate.sakataseed.co.jp/company/profile.html"
+    },
+    "evidence": {
+      "head_offices": "本社所在地 〒224-0041 神奈川県横浜市都筑区仲町台二丁目7番1号",
+      "representatives": "代表取締役会長　坂田　宏 代表取締役社長　加々美　勉",
+      "capital": "資本金 135億円",
+      "established": "設立 1942年12月"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "MULTIPLE_CANDIDATES",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Hokuto",
+    "website": "https://www.hokto-kinoko.co.jp/",
+    "head_offices": [
+      "長野県長野市南堀138-1"
+    ],
+    "representatives": [
+      "水野雅義"
+    ],
+    "capital": "55億円",
+    "established": "1964年7月",
+    "sources": {
+      "profile": "https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/",
+      "established": "https://www.hokto-kinoko.co.jp/corporate/ir/faq/"
+    },
+    "field_sources": {
+      "head_offices": "https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/",
+      "representatives": "https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/",
+      "capital": "https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/",
+      "established": "https://www.hokto-kinoko.co.jp/corporate/ir/faq/"
+    },
+    "evidence": {
+      "head_offices": "所在地\n〒\n381-8533　長野県長野市南堀138-1",
+      "representatives": "代表者\n代表取締役社長　水野雅義",
+      "capital": "資本金\n55億円",
+      "established": "会社の設立はいつですか？\n昭和39年7月です。"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Sho-Bond Holdings",
+    "website": "https://www.sho-bondhd.jp/",
+    "head_offices": [
+      "東京都中央区日本橋箱崎町7番8号"
+    ],
+    "representatives": [
+      "岸本 達也"
+    ],
+    "capital": "50億円",
+    "established": "2008年1月4日",
+    "sources": {
+      "profile": "https://www.sho-bondhd.jp/company/profile/",
+      "established": "https://www.sho-bondhd.jp/company/profile/"
+    },
+    "field_sources": {
+      "head_offices": "https://www.sho-bondhd.jp/company/profile/",
+      "representatives": "https://www.sho-bondhd.jp/company/profile/",
+      "capital": "https://www.sho-bondhd.jp/company/profile/",
+      "established": "https://www.sho-bondhd.jp/company/profile/"
+    },
+    "evidence": {
+      "head_offices": "本社 〒103-0015 東京都中央区日本橋箱崎町7番8号",
+      "representatives": "代表取締役社長 岸本 達也",
+      "capital": "資本金 50億円",
+      "established": "設立 2008年1月4日"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Mirait One",
+    "website": "https://www.mirait-one.com/",
+    "head_offices": [
+      "〒105-0001　東京都港区虎ノ門2-2-3"
+    ],
+    "representatives": [
+      "菅原 英宗"
+    ],
+    "capital": "70億円",
+    "established": "2010年10月1日",
+    "sources": {
+      "profile": "https://www.mirait-one.com/corporate/profile/",
+      "established": "https://www.mirait-one.com/corporate/profile/"
+    },
+    "field_sources": {
+      "head_offices": "https://www.mirait-one.com/corporate/profile/",
+      "representatives": "https://www.mirait-one.com/corporate/profile/",
+      "capital": "https://www.mirait-one.com/corporate/profile/",
+      "established": "https://www.mirait-one.com/corporate/profile/"
+    },
+    "evidence": {
+      "head_offices": "本社 〒105-0001　東京都港区虎ノ門2-2-3",
+      "representatives": "代表 代表取締役社長　CEO　菅原 英宗",
+      "capital": "資本金 70億円",
+      "established": "設立 2010年10月1日"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Tama Home",
+    "website": "https://www.tamahome.jp/",
+    "head_offices": [
+      "〒108-0074　東京都港区高輪3丁目22番9号 タマホーム本社ビル"
+    ],
+    "representatives": [
+      "代表取締役会長　　玉木　康裕",
+      "代表取締役社長　　玉木　伸弥"
+    ],
+    "capital": "43億1,014万円",
+    "established": "1998年6月3日",
+    "sources": {
+      "profile": "https://www.tamahome.jp/company/profile/",
+      "established": "https://www.tamahome.jp/company/profile/"
+    },
+    "field_sources": {
+      "head_offices": "https://www.tamahome.jp/company/profile/",
+      "representatives": "https://www.tamahome.jp/company/profile/",
+      "capital": "https://www.tamahome.jp/company/profile/",
+      "established": "https://www.tamahome.jp/company/profile/"
+    },
+    "evidence": {
+      "head_offices": "本社 〒108-0074　東京都港区高輪3丁目22番9号 タマホーム本社ビル",
+      "representatives": "代表取締役会長　　玉木　康裕\n代表取締役社長　　玉木　伸弥",
+      "capital": "資本金 43億1,014万円",
+      "established": "設立 1998年6月3日"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "MULTIPLE_CANDIDATES",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Kyokuyo",
+    "website": "https://www.kyokuyo.co.jp/",
+    "head_offices": [
+      "東京都港区赤坂三丁目3番5号"
+    ],
+    "representatives": [
+      "井上　誠"
+    ],
+    "capital": "75億2700万円",
+    "established": "1937年9月",
+    "sources": {
+      "profile": "https://www.kyokuyo.co.jp/company/data/profile/",
+      "established": "https://www.kyokuyo.co.jp/inquiry/faq/index.html"
+    },
+    "field_sources": {
+      "head_offices": "https://www.kyokuyo.co.jp/company/data/profile/",
+      "representatives": "https://www.kyokuyo.co.jp/company/data/profile/",
+      "capital": "https://www.kyokuyo.co.jp/company/data/profile/",
+      "established": "https://www.kyokuyo.co.jp/inquiry/faq/index.html"
+    },
+    "evidence": {
+      "head_offices": "本社所在地\n東京都港区赤坂三丁目3番5号",
+      "representatives": "代表取締役社長　　井上　誠",
+      "capital": "資本金\n75億2700万円",
+      "established": "株式会社　極洋は、1937年（昭和12年）9月に「極洋捕鯨株式会社」として設立されました。"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  },
+  {
+    "company_name": "Nihon Aqua",
+    "website": "https://www.n-aqua.jp/",
+    "head_offices": [
+      "〒108-0075 東京都港区港南2-16-2　太陽生命品川ビル20F"
+    ],
+    "representatives": [
+      "中村　文隆"
+    ],
+    "capital": "19億3百万円",
+    "established": "2004年11月29日",
+    "sources": {
+      "profile": "https://www.n-aqua.jp/company/info.html",
+      "established": "https://www.n-aqua.jp/company/info.html"
+    },
+    "field_sources": {
+      "head_offices": "https://www.n-aqua.jp/company/info.html",
+      "representatives": "https://www.n-aqua.jp/company/info.html",
+      "capital": "https://www.n-aqua.jp/company/info.html",
+      "established": "https://www.n-aqua.jp/company/info.html"
+    },
+    "evidence": {
+      "head_offices": "本社 〒108-0075 東京都港区港南2-16-2　太陽生命品川ビル20F",
+      "representatives": "代表取締役　中村　文隆",
+      "capital": "資本金 19億3百万円（2025年12月31日現在）",
+      "established": "設立年月日 2004年11月29日"
+    },
+    "statuses": {
+      "head_offices": "FOUND",
+      "representatives": "FOUND",
+      "capital": "FOUND",
+      "established": "FOUND"
+    }
+  }
+]

@@ -1,0 +1,64 @@
+Codex review: planned checklist and observed disposition
+========================
+Date: 2026-10-15
+
+The project contract (documents/setup.md section 11) planned reviews at:
+- Review #1 (after Milestone 2): crawling/generalization
+- Review #2 (after Milestone 4): evidence/hallucination
+- Final review before submission.
+
+This schedule is a plan, not proof that each checkpoint ran. The available
+Codex exchanges are exported in 07_codex_conversation_transcript.txt. The
+findings below summarize the later review and subsequent fixes; do not treat
+this summary as a verbatim AI response or as evidence for separate M2/M4 runs.
+
+Reviewer prompt template in documents/setup.md section 11:
+
+    Act as an independent senior reviewer. Do not modify code yet.
+
+    Read AGENTS.md, ACCEPTANCE_CRITERIA.md, IMPLEMENTATION_PLAN.md,
+    CURRENT_STATUS.md, src/, tests/, and result/.
+
+    Run ruff, mypy, pytest. Inspect actual result files.
+
+    Review for:
+    1. assignment requirement violations
+    2. crawler/URL/domain bugs
+    3. hidden site-specific logic
+    4. LLM hallucination risk and unsupported values
+    5. missing evidence/source validation
+    6. wrong establishment-month or representative handling
+    7. tests that pass without proving the requirement
+    8. unnecessary complexity
+    9. secret leakage
+
+    Return findings as BLOCKER / HIGH / MEDIUM / LOW with:
+    file, problem, evidence/reproduction, impact, recommended fix.
+    No style-only refactors.
+
+See the third session in 07 for the actual review request, response, and
+follow-up work. Its exchange is historical; this file records the final
+disposition. Tool calls and internal reasoning are omitted from the export.
+
+Final review findings and disposition (2026-10-15):
+- HIGH: src/schema.py accepted a quoted source page even if the extracted value
+  was absent from that quote. Fixed with a value-to-evidence check and regression
+  tests, including list entries and Japanese era/Gregorian date normalization.
+- HIGH: src/pipeline.py only logged validation problems and still wrote results.
+  Fixed by retrying the extraction once and raising if it remains invalid;
+  regression tests confirm both recovery and fail-closed behavior.
+- MEDIUM: README.md described only direct environment variable setup while the
+  local run used ignored .env. The setup instructions now document local loading.
+- The provided ChatGPT planning conversation has a share link in 01. Claude Code
+  implementation history is still only a summary in 03 until an export/link is
+  supplied.
+
+Verification recorded at the end of that review: 76 pytest tests passed;
+Ruff and mypy passed. The subsequent complete Task A run produced 10 records
+and 40 sourced decisions (37 FOUND, 3 MULTIPLE_CANDIDATES). Its validation
+needed one bounded retry; an independent check found the 40 quotes on 12
+re-fetched official pages. These are 2026-10-15 observations, not a claim
+that a new run happened while reading this file.
+
+Remaining submission gap: 03 has the Claude user prompt but no verbatim AI
+responses or share link. See 00_README.txt for the history map.

@@ -1,0 +1,64 @@
+﻿company,seed_url,field,value,status,source_url,evidence
+Nissui,https://www.nissui.co.jp/,head_office_address,東京都港区西新橋1-3-1 西新橋スクエア,FOUND,https://www.nissui.co.jp/corporate/index.html,"本社所在地
+東京都港区西新橋1-3-1 西新橋スクエア"
+Nissui,https://www.nissui.co.jp/,representative,田中輝,FOUND,https://www.nissui.co.jp/corporate/index.html,"代表者
+代表取締役 社長執行役員 田中輝"
+Nissui,https://www.nissui.co.jp/,capital,"30,685百万円",FOUND,https://www.nissui.co.jp/corporate/index.html,"資本金
+30,685百万円"
+Nissui,https://www.nissui.co.jp/,established_year_month,1943年3月31日,FOUND,https://www.nissui.co.jp/ir/ir_qa/index.html,会社設立は、1943年3月31日です。
+Umios,https://www.umios.com/,head_office_address,〒108-8620　東京都港区高輪二丁目21番2号 THE LINKPILLAR 1 SOUTH,FOUND,https://www.umios.com/jp/corporate/outline/data/,"所在地
+〒108-8620　東京都港区高輪二丁目21番2号 THE LINKPILLAR 1 SOUTH"
+Umios,https://www.umios.com/,representative,安田　大助,FOUND,https://www.umios.com/jp/corporate/outline/,"代表取締役社長
+安田　大助"
+Umios,https://www.umios.com/,capital,200億円,FOUND,https://www.umios.com/jp/corporate/outline/data/,"資本金
+200億円"
+Umios,https://www.umios.com/,established_year_month,1943年3月31日,FOUND,https://www.umios.com/jp/corporate/outline/data/,"設立年月日
+1943年3月31日"
+Yukiguni Factory,https://www.yukiguni-factory.co.jp/,head_office_address,"新潟本社
+〒949-6695 新潟県南魚沼市余川89番地 TEL：025-778-0111（代表） | 東京本社
+〒104-0031 東京都中央区京橋2丁目8番8号 新京橋ビル4階 TEL：03-4363-2483",MULTIPLE_CANDIDATES,https://www.yukiguni-factory.co.jp/company/gaiyo,"本社所在地
+新潟本社
+〒949-6695 新潟県南魚沼市余川89番地 TEL：025-778-0111（代表）
+東京本社
+〒104-0031 東京都中央区京橋2丁目8番8号 新京橋ビル4階 TEL：03-4363-2483"
+Yukiguni Factory,https://www.yukiguni-factory.co.jp/,representative,湯澤 尚史,FOUND,https://www.yukiguni-factory.co.jp/company/gaiyo,代表取締役社長　湯澤 尚史
+Yukiguni Factory,https://www.yukiguni-factory.co.jp/,capital,100百万円,FOUND,https://www.yukiguni-factory.co.jp/company/gaiyo,"資本金
+100百万円"
+Yukiguni Factory,https://www.yukiguni-factory.co.jp/,established_year_month,1983年7月,FOUND,https://www.yukiguni-factory.co.jp/company/gaiyo,"設立年月
+1983年7月"
+Sakata Seed,https://www.sakataseed.co.jp/,head_office_address,〒224-0041 神奈川県横浜市都筑区仲町台二丁目7番1号,FOUND,https://corporate.sakataseed.co.jp/company/profile.html,本社所在地 〒224-0041 神奈川県横浜市都筑区仲町台二丁目7番1号
+Sakata Seed,https://www.sakataseed.co.jp/,representative,代表取締役会長　坂田　宏 | 代表取締役社長　加々美　勉,MULTIPLE_CANDIDATES,https://corporate.sakataseed.co.jp/company/profile.html,代表取締役会長　坂田　宏 代表取締役社長　加々美　勉
+Sakata Seed,https://www.sakataseed.co.jp/,capital,135億円,FOUND,https://corporate.sakataseed.co.jp/company/profile.html,資本金 135億円
+Sakata Seed,https://www.sakataseed.co.jp/,established_year_month,1942年12月,FOUND,https://corporate.sakataseed.co.jp/company/profile.html,設立 1942年12月
+Hokuto,https://www.hokto-kinoko.co.jp/,head_office_address,長野県長野市南堀138-1,FOUND,https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/,"所在地
+〒
+381-8533　長野県長野市南堀138-1"
+Hokuto,https://www.hokto-kinoko.co.jp/,representative,水野雅義,FOUND,https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/,"代表者
+代表取締役社長　水野雅義"
+Hokuto,https://www.hokto-kinoko.co.jp/,capital,55億円,FOUND,https://www.hokto-kinoko.co.jp/corporate/kigyou/gaiyou/,"資本金
+55億円"
+Hokuto,https://www.hokto-kinoko.co.jp/,established_year_month,1964年7月,FOUND,https://www.hokto-kinoko.co.jp/corporate/ir/faq/,"会社の設立はいつですか？
+昭和39年7月です。"
+Sho-Bond Holdings,https://www.sho-bondhd.jp/,head_office_address,東京都中央区日本橋箱崎町7番8号,FOUND,https://www.sho-bondhd.jp/company/profile/,本社 〒103-0015 東京都中央区日本橋箱崎町7番8号
+Sho-Bond Holdings,https://www.sho-bondhd.jp/,representative,岸本 達也,FOUND,https://www.sho-bondhd.jp/company/profile/,代表取締役社長 岸本 達也
+Sho-Bond Holdings,https://www.sho-bondhd.jp/,capital,50億円,FOUND,https://www.sho-bondhd.jp/company/profile/,資本金 50億円
+Sho-Bond Holdings,https://www.sho-bondhd.jp/,established_year_month,2008年1月4日,FOUND,https://www.sho-bondhd.jp/company/profile/,設立 2008年1月4日
+Mirait One,https://www.mirait-one.com/,head_office_address,〒105-0001　東京都港区虎ノ門2-2-3,FOUND,https://www.mirait-one.com/corporate/profile/,本社 〒105-0001　東京都港区虎ノ門2-2-3
+Mirait One,https://www.mirait-one.com/,representative,菅原 英宗,FOUND,https://www.mirait-one.com/corporate/profile/,代表 代表取締役社長　CEO　菅原 英宗
+Mirait One,https://www.mirait-one.com/,capital,70億円,FOUND,https://www.mirait-one.com/corporate/profile/,資本金 70億円
+Mirait One,https://www.mirait-one.com/,established_year_month,2010年10月1日,FOUND,https://www.mirait-one.com/corporate/profile/,設立 2010年10月1日
+Tama Home,https://www.tamahome.jp/,head_office_address,〒108-0074　東京都港区高輪3丁目22番9号 タマホーム本社ビル,FOUND,https://www.tamahome.jp/company/profile/,本社 〒108-0074　東京都港区高輪3丁目22番9号 タマホーム本社ビル
+Tama Home,https://www.tamahome.jp/,representative,代表取締役会長　　玉木　康裕 | 代表取締役社長　　玉木　伸弥,MULTIPLE_CANDIDATES,https://www.tamahome.jp/company/profile/,"代表取締役会長　　玉木　康裕
+代表取締役社長　　玉木　伸弥"
+Tama Home,https://www.tamahome.jp/,capital,"43億1,014万円",FOUND,https://www.tamahome.jp/company/profile/,"資本金 43億1,014万円"
+Tama Home,https://www.tamahome.jp/,established_year_month,1998年6月3日,FOUND,https://www.tamahome.jp/company/profile/,設立 1998年6月3日
+Kyokuyo,https://www.kyokuyo.co.jp/,head_office_address,東京都港区赤坂三丁目3番5号,FOUND,https://www.kyokuyo.co.jp/company/data/profile/,"本社所在地
+東京都港区赤坂三丁目3番5号"
+Kyokuyo,https://www.kyokuyo.co.jp/,representative,井上　誠,FOUND,https://www.kyokuyo.co.jp/company/data/profile/,代表取締役社長　　井上　誠
+Kyokuyo,https://www.kyokuyo.co.jp/,capital,75億2700万円,FOUND,https://www.kyokuyo.co.jp/company/data/profile/,"資本金
+75億2700万円"
+Kyokuyo,https://www.kyokuyo.co.jp/,established_year_month,1937年9月,FOUND,https://www.kyokuyo.co.jp/inquiry/faq/index.html,株式会社　極洋は、1937年（昭和12年）9月に「極洋捕鯨株式会社」として設立されました。
+Nihon Aqua,https://www.n-aqua.jp/,head_office_address,〒108-0075 東京都港区港南2-16-2　太陽生命品川ビル20F,FOUND,https://www.n-aqua.jp/company/info.html,本社 〒108-0075 東京都港区港南2-16-2　太陽生命品川ビル20F
+Nihon Aqua,https://www.n-aqua.jp/,representative,中村　文隆,FOUND,https://www.n-aqua.jp/company/info.html,代表取締役　中村　文隆
+Nihon Aqua,https://www.n-aqua.jp/,capital,19億3百万円,FOUND,https://www.n-aqua.jp/company/info.html,資本金 19億3百万円（2025年12月31日現在）
+Nihon Aqua,https://www.n-aqua.jp/,established_year_month,2004年11月29日,FOUND,https://www.n-aqua.jp/company/info.html,設立年月日 2004年11月29日
