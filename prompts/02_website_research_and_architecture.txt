@@ -1,0 +1,32 @@
+Website research and architecture: decision summary
+=========================================
+Date: 2026-10-15 (planning phase, before implementation)
+
+This is a paraphrased decision record, not a verbatim prompt-and-response
+transcript. The ChatGPT planning link is in 01_requirement_analysis.txt;
+AGENTS.md and IMPLEMENTATION_PLAN.md contain the resulting project contract.
+
+Architecture:
+
+Pipeline: seed homepage -> official-domain link discovery -> URL
+normalization/dedup -> candidate ranking -> HTTP retrieval -> HTML cleaning
+-> LLM structured extraction -> deterministic validation -> CSV/JSON.
+
+Decisions carried into implementation:
+- Start each company at its supplied homepage. Discover official links,
+  normalize/deduplicate URLs, and rank candidates by generic link text and
+  path terms (会社概要/企業情報/沿革/company/profile/outline/history). Penalize
+  unrelated news, recruitment, product, and contact pages.
+- Retrieve useful content with HTTP first. A 200 response can still be a
+  challenge/login page; use a browser only after showing HTTP-content failure.
+- Allow the official domain's subdomains under the domain policy so Sakata
+  Seed's corporate pages can be discovered from the seed; do not hardcode
+  its profile URL as the normal path.
+- Send cleaned candidate pages with their exact URLs to the LLM, then validate
+  source URL, verbatim quote, value support, date precision, and statuses
+  deterministically. Missing information stays explicit; never guess a month.
+- Preserve multiple representatives/offices and flag contradictions rather
+  than silently selecting a single candidate.
+
+Next: 03_claude_code_implementation_sessions.txt records the implementation
+request; 05_extraction_system_prompt.txt is the active extraction prompt.

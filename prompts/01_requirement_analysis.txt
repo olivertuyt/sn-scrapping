@@ -1,0 +1,27 @@
+Requirement analysis: ChatGPT conversation link and summary
+==============================================================
+Date: 2026-10-15 (before implementation)
+
+The user supplied this share link for the ChatGPT assignment-translation and
+planning conversation. It is the primary prompt-and-response record for that
+conversation; this file is only an index and summary:
+https://chatgpt.com/share/6ad07a90-14e0-83ec-9378-81e11cf9ad1c
+
+The project carried the following requirements into implementation (see the
+assignment, IMPLEMENTATION_PLAN.md, and AGENTS.md for the operative rules):
+
+- 10 target companies and seed URLs (assignment section 2).
+- Four fields to extract: head office address, representative, capital,
+  establishment year+month.
+- Known data edge cases discovered during research:
+  * Nissui, Hokuto: profile page shows year only; month is on the history page.
+  * Sakata Seed: corporate data lives on a separate corporate subdomain.
+  * Sakata Seed, Tama Home: two representative directors.
+  * Yukiguni Factory: two head offices.
+- Hard rules adopted: never fabricate; every non-null field needs source_url +
+  verbatim evidence; never infer month from year alone; do not silently
+  resolve multiple representatives/addresses/conflicts; HTTP 200 is not proof
+  of useful content.
+
+Next: 02_website_research_and_architecture.txt records the design decisions.
+See 00_README.txt for the record types and the unresolved Claude history gap.

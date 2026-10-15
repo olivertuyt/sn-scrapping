@@ -1,0 +1,41 @@
+{
+  "task": "B",
+  "observed_on": "2026-10-15",
+  "retrieval_method": "Isolated JavaScript-enabled browser after three direct HTTP requests returned Cloudflare 403 challenge pages",
+  "query_url": "https://vn.indeed.com/jobs?q=remote",
+  "rendered_url": "https://vn.indeed.com/jobs?q=remote&vjk=58bcb6e093bc61b9",
+  "page_title": "3,000+ Remote Jobs, Employment October 15, 2026| Indeed",
+  "result_count_label": "3,000+",
+  "visible_job_cards": 15,
+  "scope": "One observed result from the first results page; not a complete export",
+  "captcha_shown": false,
+  "job": {
+    "id": "58bcb6e093bc61b9",
+    "title": "NHÂN VIÊN CHĂM SÓC KHÁCH HÀNG REMOTE NHÀ",
+    "employer": "Truyền Thông Và Giải Trí CM Việt Nam",
+    "location": "Việt Nam",
+    "salary_observations": [
+      {
+        "context": "Search result card and job details",
+        "text": "15,000,000 VNĐ - 20,000,000 VNĐ a year"
+      },
+      {
+        "context": "Full job description",
+        "text": "Lương: 15000K - 20000K VND một tháng"
+      }
+    ],
+    "employment_type": "Toàn thời gian",
+    "description_excerpt": [
+      "Hỗ trợ khách hàng trong quá trình trải nghiệm sản phẩm game trò chơi, phản hồi ý kiến và giải quyết khiếu nại cho khách hàng.",
+      "PHẢN HỒI Ý KIẾN CỦA KHÁCH HÀNG.",
+      "HỖ TRỢ KHÁCH HÀNG TRONG QUÁ TRÌNH TRẢI NGHIỆM SẢN PHẨM GAME TRÒ CHƠI.",
+      "GIẢI QUYẾT KHIẾU NẠI CHO KHÁCH HÀNG."
+    ],
+    "application_deadline": "2026-11-04",
+    "source_url": "https://vn.indeed.com/jobs?q=remote&vjk=58bcb6e093bc61b9"
+  },
+  "notes": [
+    "The salary period differs between the card and the description; both observed strings are preserved without reconciliation.",
+    "Only this selected listing is captured; the 3,000+ label is Indeed's displayed result label, not a count downloaded by this run."
+  ]
+}

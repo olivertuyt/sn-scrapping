@@ -1,0 +1,10 @@
+httpx
+truststore
+beautifulsoup4
+lxml
+pydantic
+pytest
+pytest-cov
+ruff
+mypy
+# playwright  # fallback only, add when needed

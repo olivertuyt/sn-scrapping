@@ -1,0 +1,65 @@
+2026-10-15 | Codex + Gemini REST integration: execution summary
+
+Record type: paraphrased run chronology, not a verbatim conversation export.
+The actual available Codex user/assistant exchanges are in
+07_codex_conversation_transcript.txt, first and third sessions. Earlier
+intermediate runs and the final review are separate observations; counts below
+refer to their stated stages, not one single audit.
+
+Credential handling
+- The user supplied a Gemini API key for this run. The credential is intentionally redacted and is not stored in this prompt history, source, result, or report files.
+- The key is stored in the local ignored .env file and loaded into GEMINI_API_KEY
+  only for the pipeline process. It is not part of the repository deliverables.
+- Gemini 3.1 Flash-Lite was selected based on the pricing page checked during
+  this 2026-10-15 run: https://ai.google.dev/gemini-api/docs/pricing
+
+First Codex request (text from 07, whitespace normalized)
+"Please check requirement in [documents](documents/) folder, and run the code to ensure my project complete to run correctly and successfully for that requirement"
+
+Follow-up user request (text from 07, credential excluded)
+"here is gemini free API key, please apply and run for current project, both task A and B"
+
+The first request preceded access to an API key and produced environment,
+crawl, and saved-result checks. The follow-up authorized a fresh Gemini Task A
+run and Task B attempt. Do not pair the two quoted assistant updates from the
+old summary with these requests as immediate replies: several exchanges
+occurred between them. Read 07 for the exact sequence.
+
+Implementation and verification responses
+- The first live Gemini request reached Google but received HTTP 400 because the REST JSON enum requires APPLICATION_JSON. A regression test was updated first, observed failing, then the request field was corrected. The live API probe subsequently returned all four expected field keys.
+- The Nissui profile page contained only a year. The pipeline now discovers dated history descendants from a selected official history page and ranks corporate Q&A/FAQ above IR event transcripts. Nissui's final date came from its official Q&A, with the exact sentence retained as evidence.
+- The full Task A pipeline completed for 10 companies and wrote result/companies.json and result/companies.csv. It produced 40 field decisions: 37 FOUND and 3 MULTIPLE_CANDIDATES. Multiple addresses/directors were preserved.
+- An intermediate audit re-fetched 14 unique official sources and checked all
+  40 evidence values; there were no source, evidence, JSON, or CSV issues.
+- The initial run checks passed; final review added validation regression tests
+  and re-ran 74 tests, Ruff, and mypy for src and tests. No API-key-like token
+  was found in tracked project files.
+- Task B first used three ordinary HTTP requests (plain user agent, Chrome user agent, and browser-style Accept headers). All returned Cloudflare HTTP 403 challenge pages.
+
+Task B outcome summary (not a verbatim assistant response)
+- After three HTTP 403 challenges, an isolated JavaScript-enabled browser
+  displayed the supplied Indeed page with 15 first-page job cards and one
+  selected detail panel. The visible data was saved in
+  result/indeed_remote_page1.json; result/indeed_remote_sample.json contains
+  one example. The selected listing showed conflicting salary periods, which
+  were preserved separately. No CAPTCHA was presented or solved, and no login
+  was used. No bulk pagination was attempted.
+
+At this stage, Task A had 10 companies and 40 sourced decisions, valid
+JSON/CSV, and passing checks. Task B's HTTP failure and subsequent browser
+fallback were documented. The credential was not written to tracked files.
+
+Final review rerun (2026-10-15)
+- Added a value-to-evidence check: all non-null values, including list members,
+  must be supported by their quoted page text. The pipeline stops on validation
+  failures after one bounded extraction retry.
+- The first complete rerun with the strengthened validation stopped at Hokuto
+  because Gemini's address quote was
+  not a verbatim substring of the fetched page. A focused rerun produced a valid
+  quote. One retry was added, and the final 10-company rerun exited successfully.
+- Final files: 10 companies, 40 decisions (37 FOUND, 3 MULTIPLE_CANDIDATES),
+  12 distinct official source URLs. A separate fetch confirmed all 40 quotes.
+- Final checks: 76 pytest tests passed; Ruff and mypy passed for src and tests.
+
+For review findings and the unresolved Claude conversation-history gap, see
+04_codex_reviews.txt and 03_claude_code_implementation_sessions.txt.
